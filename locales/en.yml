@@ -1,0 +1,4 @@
+en:
+  lita:
+    handlers:
+      command_not_found:
